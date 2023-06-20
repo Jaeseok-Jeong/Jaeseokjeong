@@ -1,7 +1,7 @@
-👋 Hello. I am software engineer instersted in ML/DL
+👋 Hello. I am a software engineer who is well versed in ML/DL
 
-My major in Mathematics and I have been studying Master's course in Applied Mathematics.
-I am interested in ML/DL algorithm
+My major is landscape civil engineering and I am studying applied mathematics.
+I'm interested in ML/DL algorithms
 
 ## Main Stack
 
