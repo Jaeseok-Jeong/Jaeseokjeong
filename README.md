@@ -10,7 +10,7 @@ I am interested in ML/DL algorithm
 
 
 <!--
-**Youngpyoryu/Youngpyoryu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Jaeseok-jeong/Jaeseok-jeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 
@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 -->
 
 
-![Youngpyo GitHub stats](https://github-readme-stats.vercel.app/api?username=Youngpyoryu&show_icons=true&theme=radical)
+![Jaeseok GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaeseok-jeong&show_icons=true&theme=radical)
