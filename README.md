@@ -1,4 +1,4 @@
-👋 Hello. I am a software engineer who is well versed in ML/DL
+👋 Hello. I am software engineer instersted in ML/DL
 
 My major is landscape civil engineering and I am studying applied mathematics.
 I'm interested in ML/DL algorithms
