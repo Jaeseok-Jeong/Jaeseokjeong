@@ -10,7 +10,7 @@ I am interested in ML/DL algorithm
 
 
 <!--
-**Jaeseok-jeong/Jaeseok-jeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Jaeseokjeong/Jaeseokjeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 
